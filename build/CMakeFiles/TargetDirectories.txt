@@ -1,0 +1,1 @@
+/home/danlaw/wav/new/wavConvert/build/CMakeFiles/wavTypeconvert.dir
