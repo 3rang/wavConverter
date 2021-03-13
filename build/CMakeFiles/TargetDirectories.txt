@@ -1,1 +1,8 @@
-/home/danlaw/wav/new/wavConvert/build/CMakeFiles/wavTypeconvert.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/install/strip.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/install/local.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/install.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/list_install_components.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/rebuild_cache.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/edit_cache.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/wavTypeconvert.dir
+/home/tarang/wave/wavConverter/build/CMakeFiles/testApp.dir

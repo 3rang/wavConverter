@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/testApp.dir/testapp/testApp.c.o  -o testApp   -L/home/tarang/wave/wavConverter/build  -Wl,-rpath,/home/tarang/wave/wavConverter/build -lwavTypeconvert 

@@ -44,7 +44,6 @@ typedef struct stereo16PCM
 
 typedef s_wavfileHeader* s_Header;
 
-int Create16tereo(FILE* file_p,int32_t SampleRate,int32_t FrameCount);
 
 int Create16stereo(FILE* file_p,int32_t SampleRate,int32_t FrameCount)
 {

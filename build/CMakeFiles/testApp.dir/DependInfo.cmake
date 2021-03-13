@@ -4,14 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/tarang/wave/wavConverter/src/wavTypeconvert.c" "/home/tarang/wave/wavConverter/build/CMakeFiles/wavTypeconvert.dir/src/wavTypeconvert.c.o"
+  "/home/tarang/wave/wavConverter/testapp/testApp.c" "/home/tarang/wave/wavConverter/build/CMakeFiles/testApp.dir/testapp/testApp.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
-
-# Preprocessor definitions for this target.
-set(CMAKE_TARGET_DEFINITIONS_C
-  "wavTypeconvert_EXPORTS"
-  )
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

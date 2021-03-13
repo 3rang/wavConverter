@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/tarang/wave/wavConverter/src/wavTypeconvert.c
+/home/tarang/wave/wavConverter/testapp/testApp.c
 stdio.h
--
-stdlib.h
--
-stdint.h
--
-limits.h
 -
 
